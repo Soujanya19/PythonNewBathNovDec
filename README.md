@@ -16,4 +16,10 @@ to create a branch
 to see latest changes
     git status
 to see the changes made
-    git diffc
+    git diff
+To stage the changes
+    git commit -m
+To push the changes 
+    git push origin 
+    class 03
+    ex: git push lass 03
