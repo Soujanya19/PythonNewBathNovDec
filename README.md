@@ -54,3 +54,23 @@ To get the latest changes
 To create new branch
 
     git checkout -b<NEW BRANCH NAME>
+
+## Daily funtions
+
+    git branch
+
+    git checkout <enter branch name>
+
+    ls
+
+    git status
+
+    git add <new files>
+
+    git status
+
+    git commit -m " comments "
+
+    git push origin class02
+
+## Pull request in git
